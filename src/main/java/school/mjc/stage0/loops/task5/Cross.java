@@ -9,7 +9,7 @@ public class Cross {
                 for (int j = 0; j < sideLength/2; j++) System.out.print(" ");
                 System.out.print(8);
                 for (int j = 0; j < sideLength/2; j++) System.out.print(" ");
-                System.out.print(8);
+
                 System.out.println("");
             }
             for (int i = 0; i < sideLength;i++ ) System.out.print(8);
@@ -19,7 +19,7 @@ public class Cross {
                 for (int j = 0; j < sideLength/2; j++) System.out.print(" ");
                 System.out.print(8);
                 for (int j = 0; j < sideLength/2; j++) System.out.print(" ");
-                System.out.print(8);
+
                 System.out.println("");
             }
         }
